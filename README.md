@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 ![Metrics](/github-metrics.svg)
+</br>
+![Icons](/metrics.plugin.topics.icons.svg)
+</br>
+![Iso](/metrics.plugin.isocalendar.svg)
+
 
 <!--
 **grahampfeifer1/grahampfeifer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
